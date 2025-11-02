@@ -127,7 +127,7 @@ Examples:
     parser.add_argument(
         "--port", 
         type=int, 
-        default=8000, 
+        default=10000, 
         help="Port to bind to (default: 8000)"
     )
     parser.add_argument(
